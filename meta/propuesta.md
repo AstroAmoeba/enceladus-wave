@@ -1,5 +1,11 @@
 
 **Título propuesto:**
+
+**"Propagación de ondas elásticas en la capa de hielo de Encelado: efecto de la
+heterogeneidad de espesor y temperatura en sismogramas sintéticos 1D"**
+
+o
+
 **“Propagación de ondas elásticas en la capa de hielo de Encelado: análisis teórico de reflexión-transmisión y validación numérica simplificada con TauP y Deepwave”**
 
 **Planteamiento del problema y motivación**
@@ -50,7 +56,7 @@ Caracterizar el efecto de la heterogeneidad de espesor y temperatura de la capa 
 | 3 | Figura de tiempos TauP (validación); sismograma Deepwave conceptual; sección de acoplamiento tidal |
 | 4 | Documento final + presentación |
 
-**Trabajo futuro (explícitamente fuera de alcance)**
+**Trabajo futuro (fuera de alcance)**
 
 - Implementación de un solver de diferencias finitas 1D/2D para campo de onda completo en medios con heterogeneidad de espesor.
 - Modelo 2D/3D de espesor variable (Hemingway & Mittal, 2019, truncado).

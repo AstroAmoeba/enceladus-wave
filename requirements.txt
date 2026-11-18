@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+obspy
+deepwave
+torch
+jupyter
+pytest
