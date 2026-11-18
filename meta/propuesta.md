@@ -1,10 +1,19 @@
 
 **Título propuesto:**
 
-**"Propagación de ondas elásticas en la capa de hielo de Encelado: efecto de la
-heterogeneidad de espesor y temperatura en sismogramas sintéticos 1D"**
+**"Propagación de ondas elásticas en la capa de hielo de Encelado: efecto de la heterogeneidad de espesor y temperatura en sismogramas sintéticos 1D"**
 
-o
+El proyecto esta centrado en la luna de Saturno Encelado. Que es un cuerpo de gran interés astrobiológico debido a la presencia de un océano subsuperficial, actividad hidrotermal y una intensa sismicidad asociada a la interacción tidal con Saturno.
+
+Las fracturas Tiger Stripe, que atraviesan la totalidad de la capa de hielo en la región polar sur, se reactivan periódicamente por el forzamiento gravitacional, generando sismos que pueden ser registrados por futuras misiones con sismómetros de superficie (Dapré & Irving, 2024, 2025). Sin embargo, la interpretación de estas señales sísmicas depende críticamente de la estructura de la capa de hielo. Dado que su espesor varía con la latitud y su temperatura controla tanto las velocidades elásticas como la atenuación.
+
+Los artículos de Dapre e Irving (2024, 2025) muestran, mediante simulaciones de campo de onda completo, que la heterogeneidad del hielo introduce diferencias en tiempos de aarribo comparables a las producidas por la incertidumbre en la estructura del núcleo, lo que plantea un desafío para la inversión de datos sísmicos.
+
+El proyecto busca abordar este problema desde una perspectiva teórico-analítica. **El objetivo es caracterizar el efecto de la heterogeneidad de la capa de hielo (espesor y temperatura) sobre la propagación de ondas elásticas P y S.**
+
+Se propone hacer esto mediante la derivación de las ecuaciones de Lamé para un medio isótropo con propiedades variables con la profundidad, el análisis de los coeficientes de reflexión y transmisión en la interfaz hielo-océano, y la estimación de tiempos de viaje mediante la aproximación de rayos (WKBJ). (todo esto dependiendo de los tiempos y el alcance del proyecto, quedo atenta a cualquier retroalimentación, recomendación, comentario, etc. 👀)
+Se pude incorporar también el acoplamiento tidal como mecanismo generador de los sismos discutiendo cómo los esfuerzos de marea reactivan las fracturas y qué implicaciones tiene esto para la ubicación y magnitud de las fuentes sísmicas. Opcionalmente, se incluirá un análisis termoelástico simplificado para discutir cómo el gradiente térmico modifica las velocidades efectivas y la atenuación.
+La idea es limitar el proyecto a un análisis teórico y de orden de magnitud, contrastando los resultados con las curvas de tiempo de viaje y las tendencias reportadas en Dapré e Irving (2024, 2025). y cubrir contenidos de elasticidad, termoelasticidad, propagación de ondas, fuerzas de marea y reología, (etc.?)
 
 **“Propagación de ondas elásticas en la capa de hielo de Encelado: análisis teórico de reflexión-transmisión y validación numérica simplificada con TauP y Deepwave”**
 

@@ -4,8 +4,7 @@ Análisis teórico de reflexión-transmisión y validación numérica simplifica
 
 ## Estado
 
-🚧 En progreso — Semana 1
-muerte
+desafortunado :c
 
 ## Estructura
 
@@ -21,7 +20,8 @@ quizasmente
 ## Instalación
 
 
+```
 git clone https://github.com/AstroAmoeba/enceladus-wave
 cd encelado-sismologia
 pip install -r requirements.txt
-
+```
