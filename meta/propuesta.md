@@ -1,7 +1,7 @@
 
 **Título propuesto:**
 
-**"Propagación de ondas elásticas en la capa de hielo de Encelado: efecto de la heterogeneidad de espesor y temperatura en sismogramas sintéticos 1D"**
+# **"Propagación de ondas elásticas en la capa de hielo de Encelado: efecto de la heterogeneidad de espesor y temperatura en sismogramas sintéticos 1D"**
 
 El proyecto esta centrado en la luna de Saturno Encelado. Que es un cuerpo de gran interés astrobiológico debido a la presencia de un océano subsuperficial, actividad hidrotermal y una intensa sismicidad asociada a la interacción tidal con Saturno.
 
@@ -15,7 +15,7 @@ Se propone hacer esto mediante la derivación de las ecuaciones de Lamé para un
 Se pude incorporar también el acoplamiento tidal como mecanismo generador de los sismos discutiendo cómo los esfuerzos de marea reactivan las fracturas y qué implicaciones tiene esto para la ubicación y magnitud de las fuentes sísmicas. Opcionalmente, se incluirá un análisis termoelástico simplificado para discutir cómo el gradiente térmico modifica las velocidades efectivas y la atenuación.
 La idea es limitar el proyecto a un análisis teórico y de orden de magnitud, contrastando los resultados con las curvas de tiempo de viaje y las tendencias reportadas en Dapré e Irving (2024, 2025). y cubrir contenidos de elasticidad, termoelasticidad, propagación de ondas, fuerzas de marea y reología, (etc.?)
 
-**“Propagación de ondas elásticas en la capa de hielo de Encelado: análisis teórico de reflexión-transmisión y validación numérica simplificada con TauP y Deepwave”**
+# **“Propagación de ondas elásticas en la capa de hielo de Encelado: análisis teórico de reflexión-transmisión y validación numérica simplificada con TauP y Deepwave”**
 
 **Planteamiento del problema y motivación**
 
